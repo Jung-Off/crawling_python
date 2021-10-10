@@ -14,7 +14,7 @@ crawling_python
     * 그래서 멜론으로 들어가서 이용요금? 이런거 알아보는 것으로 대체 할것
 
 Beautiful Soup
-![naver_news](./image/1.naver_news.png)
+![naver_news](./image/1.news.png)
 Selenium (+ 추가하기!)
 ![sports](./image/2.sports.png)
 
