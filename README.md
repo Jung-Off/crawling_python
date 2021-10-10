@@ -15,7 +15,7 @@ crawling_python
 
 Beautiful Soup
 ![naver_news](./image/1.news.png)
-Selenium (+ 추가하기!)
+Selenium (+ 추가하기!)  
 ![sports](./image/2.sports.png)
 
 2. [5시간 크롤링](https://youtu.be/yQ20jZwDjTE)
